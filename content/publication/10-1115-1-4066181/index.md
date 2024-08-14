@@ -1,0 +1,36 @@
+---
+title: 'Digital Twins and Civil Engineering Phases: Reorienting Adoption Strategies'
+authors:
+- Taiwo Adebiyi
+- Nafeezat Ajenifuja
+- Ruda Zhang
+date: '2024-08-01'
+publishDate: '2024-08-13T23:55:29.852052Z'
+publication_types:
+- article-journal
+publication: '*Journal of Computing and Information Science in Engineering*'
+doi: 10.1115/1.4066181
+abstract: Digital twin (DT) technology has received immense attention over the years
+  due to the promises it presents to various stakeholders in science and engineering.
+  As a result, different thematic areas of DT have been explored. This is no different
+  in specific fields such as manufacturing, automation, oil and gas, and civil engineering,
+  leading to fragmented approaches for field-specific applications. The civil engineering
+  industry is further disadvantaged in this regard as it relies on external techniques
+  by other engineering fields for its DT adoption. A rising consequence of these extensions
+  is a concentrated application of DT to the operations and maintenance phase. On
+  another spectrum, Building Information Modeling (BIM) is pervasively utilized in
+  the planning/design phase, and the transient nature of the construction phase remains
+  a challenge for its DT adoption. In this paper, we present a phase-based development
+  of DT in the Architecture, Engineering, and Construction industry. We commence by
+  presenting succinct expositions on DT as a concept and as a service, and establish
+  a five-level scale system. Furthermore, we present separately a systematic literature
+  review of the conventional techniques employed at each civil engineering phase.
+  In this regard, we identified enabling technologies such as computer vision for
+  extended sensing and the Internet of Things for reliable integration. Ultimately,
+  we attempt to reveal DT as an important tool across the entire life cycle of civil
+  engineering projects, and nudge researchers to think more holistically in their
+  quest for the integration of DT for civil engineering applications.
+links:
+- name: URL
+  url: https://doi.org/10.1115/1.4066181
+---
