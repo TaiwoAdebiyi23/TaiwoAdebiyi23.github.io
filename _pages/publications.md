@@ -14,7 +14,7 @@ toc_sticky: true
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article"><img class="img_responsive" src="/images/pub/gp_sampling_pathwise.png"></a></div>         
    <div class="text">         
-     <div class="title"><a id="gpsampling" href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article">Sampling from Gaussian processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization</a></div>         
+     <div class="title"><a id="gpsampling" href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article">Sampling from Gaussian Processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization</a></div>         
      <div class="authors"> Bach Do, Nafeezat A. Ajenifuja, <strong>Taiwo A. Adebiyi</strong>, Ruda Zhang         
      </div>         
      <div>
