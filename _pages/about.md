@@ -21,6 +21,8 @@ Education
 
 News
 ======
+**Feb 9, 2026** - Our paper on [Sampling from Gaussian Processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization](https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article) was accepted to Springer Nature Journal of the International Society for Structural and Multidisciplinary Optimization (ISSMO)!
+
 **October 20, 2025** - [Awarded the UH-Energy Chevron Graduate Energy Fellowship!](https://uq.uh.edu/blog/taiwo-wins-chevron-fellowship) 
 
 **Apr 25, 2025** - Landed in Singapore to present our paper on [Optimizing Posterior Samples for Bayesian Optimization via Rootfinding](https://iclr.cc/virtual/2025/poster/30191) at ICLR 2025!  
