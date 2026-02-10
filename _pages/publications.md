@@ -8,6 +8,27 @@ toc_label: "Publication List"
 toc_sticky: true 
 ---
 
+## 2026
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article"><img class="img_responsive" src="/images/pub/gp_sampling_pathwise.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a id="gpsampling" href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article">Sampling from Gaussian processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization</a></div>         
+     <div class="authors"> Bach Do, Nafeezat A. Ajenifuja, <strong>Taiwo A. Adebiyi</strong>, Ruda Zhang         
+     </div>         
+     <div>         
+       <em>Journal of the International Society for Structural and Multidisciplinary Optimization (ISSMO)</em> 
+
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2507.14746">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/UQUH/GPSampling">Code</a>        
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
 ## 2025
 
  <div class="publication">          
