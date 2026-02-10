@@ -20,6 +20,7 @@ toc_sticky: true
      <div>
        <em>Journal of the International Society for Structural and Multidisciplinary Optimization (ISSMO)</em> 
    <br> 
+      
        <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2507.14746">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/UQUH/GPSampling">Code</a>        
