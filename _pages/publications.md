@@ -18,10 +18,8 @@ toc_sticky: true
      <div class="authors"> Bach Do, Nafeezat A. Ajenifuja, <strong>Taiwo A. Adebiyi</strong>, Ruda Zhang         
      </div>         
      <div>
-      
-   <br> 
        <em>Journal of the International Society for Structural and Multidisciplinary Optimization (ISSMO)</em> 
-
+   <br> 
        <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2507.14746">PDF</a>         
           
        <a class="btn btn--warning btn--small" href="https://github.com/UQUH/GPSampling">Code</a>        
