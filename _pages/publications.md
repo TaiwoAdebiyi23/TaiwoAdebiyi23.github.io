@@ -17,7 +17,9 @@ toc_sticky: true
      <div class="title"><a id="gpsampling" href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article">Sampling from Gaussian processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization</a></div>         
      <div class="authors"> Bach Do, Nafeezat A. Ajenifuja, <strong>Taiwo A. Adebiyi</strong>, Ruda Zhang         
      </div>         
-     <div>         
+     <div>
+      
+   <br> 
        <em>Journal of the International Society for Structural and Multidisciplinary Optimization (ISSMO)</em> 
 
        <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2507.14746">PDF</a>         
