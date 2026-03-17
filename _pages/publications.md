@@ -112,6 +112,10 @@ toc_sticky: true
        <em>ASME Journal of Computing and Information Science in Engineering, 2024</em> 
  <br> 
 
+ <font color="red">Editor's Award:</font> (open access) 
+ <br>
+ <br> 
+
        <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2403.00540">PDF</a>             
          
      </div>         
