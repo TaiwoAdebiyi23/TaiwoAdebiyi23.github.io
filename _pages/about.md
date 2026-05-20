@@ -21,6 +21,14 @@ Education
 
 News
 ======
+**May 20, 2026** - Excited to be selected for the 2026–2027 SCIPE Chishiki AI in Civil Engineering Graduate Fellowship! Read the official annoucement [here](https://www.chishiki-ai.org/awardees/).
+
+**May 5, 2026** - Honored to receive the [2025–2026 Andrea Prosperetti Research Computing Student Award](https://researchcomputing.egr.uh.edu/awards) from the UH Cullen College of Engineering, one of the College’s highest honors in research computing, data science, and their applications.
+
+**Apr 11, 2026** - Our team won the Best Technical Implementation Award at the Coogs for Energy Hackathon for our AI-driven investment decision-layer engine for energy management. We further gave an invited presentation at Honeywell Process Automation & Technology’s headquarters in Houston [(official update here)](https://www.linkedin.com/feed/update/urn:li:activity:7456479484674727936/).
+
+**Mar 16, 2026** - Our paper on [Epsilon-Greedy Thompson Sampling to Bayesian Optimization](https://asmedigitalcollection.asme.org/computingengineering/article/24/12/121006/1207209/Epsilon-Greedy-Thompson-Sampling-to-Bayesian) received the Editor's Award from the Journal of Computing and Information Science in Engineering (JCISE)! This paper is now open access—plesse check it out.
+
 **Mar 16, 2026** - Our paper on [Epsilon-Greedy Thompson Sampling to Bayesian Optimization](https://asmedigitalcollection.asme.org/computingengineering/article/24/12/121006/1207209/Epsilon-Greedy-Thompson-Sampling-to-Bayesian) received the Editor's Award from the Journal of Computing and Information Science in Engineering (JCISE)! This paper is now open access—plesse check it out.
 
 **Feb 9, 2026** - Our paper on [Sampling from Gaussian Processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization](https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article) was accepted to Springer Nature Journal of the International Society for Structural and Multidisciplinary Optimization (ISSMO)!
