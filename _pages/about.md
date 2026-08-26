@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a PhD Candidate in the [Uncertainty Quantification Group](https://uq.uh.edu/) at the University of Houston, advised by [Ruda Zhang](https://www.cive.uh.edu/faculty/zhang-ruda). 
 
-My research focuses on developing data-driven technologies for resilient system designs and engineering applications. I specialize in optimization under uncertainty (Bayesian Optimization), probabilistic modeling (Gaussian Processes), and fully automated systems (Digital Twins). These areas align with the increasing use of GPU-accelerated supercomputing, sensing technologies, and artificial intelligence to support robust design and intelligent decision-making.
+My research focuses on developing data-driven technologies for resilient system designs and engineering applications. I specialize in Trustworthy AI (uncertainty calibration of foundation models), Optimization under Uncertainty (Bayesian Optimization), Probabilistic Modeling (Gaussian Processes), and Fully Automated Systems (Digital Twins). These areas align with the increasing use of GPU-accelerated supercomputing, sensing technologies, and artificial intelligence to support robust design and intelligent decision-making in critical systems.
 
 When I am not immersed in research or developing mathematically sophisticated software, I enjoy church service, giving back to my community, exploring the venture capital space, listening to diplomatic speeches, and catching a good game of football.
 
@@ -21,6 +21,14 @@ Education
 
 News
 ======
+**Aug 24, 2026** - Continued as a Graduate Research Assistant with the Theoretical Division (T-5) at Los Alamos National Laboratory for the Fall!
+
+**Aug 11, 2024** - Awarded the Houston Chapter of the American Concrete Institute Scholarship for academic and research excellence at the University of Houston!
+
+**May 26, 2026** - Started as a Machine Learning Fellow at Los Alamos National Laboratory for the Summer! More details [here](https://uq.uh.edu/blog/taiwo-wins-awards-interns-at-lanl).
+
+**May 13, 2026** - Honored to be designated with the Silver Reviewer Award for the International Conference of Machine Learning (ICML 2026).
+
 **May 20, 2026** - Excited to be selected for the 2026–2027 SCIPE Chishiki AI in Civil Engineering Graduate Fellowship! Read the official annoucement [here](https://www.chishiki-ai.org/awardees/).
 
 **May 5, 2026** - Honored to receive the [2025–2026 Andrea Prosperetti Research Computing Student Award](https://researchcomputing.egr.uh.edu/awards) from the UH Cullen College of Engineering, one of the College’s highest honors in research computing, data science, and their applications.
