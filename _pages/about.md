@@ -23,7 +23,7 @@ News
 ======
 **Aug 24, 2026** - Continued as a Graduate Research Assistant with the Theoretical Division (T-5) at Los Alamos National Laboratory for the Fall!
 
-**Aug 11, 2024** - Awarded the Houston Chapter of the American Concrete Institute Scholarship for academic and research excellence at the University of Houston!
+**Aug 11, 2026** - Awarded the Houston Chapter of the American Concrete Institute Scholarship for academic and research excellence at the University of Houston!
 
 **May 26, 2026** - Started as a Machine Learning Fellow at Los Alamos National Laboratory for the Summer! More details [here](https://uq.uh.edu/blog/taiwo-wins-awards-interns-at-lanl).
 
