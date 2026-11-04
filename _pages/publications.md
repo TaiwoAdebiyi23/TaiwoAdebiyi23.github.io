@@ -10,6 +10,28 @@ toc_sticky: true
 
 ## 2026
 
+  <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC"><img class="img_responsive" src="/images/pub/stochastic_attention.jpg"></a></div>         
+   <div class="text">         
+     <div class="title"><a id="stochasticattention" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC">). Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/d8ad7cc0-b231-47f2-b153-88e62f167d86" />
+</a></div>         
+     <div class="authors"> Akash Yadav', <strong>Taiwo A. Adebiyi'</strong>, Ruda Zhang. (<strong>'Co-first Authors, Equal Contribution)        
+     </div>         
+     <div>
+       <em>Accepted to the Main Track of the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)<img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/810933ff-34f0-4050-8659-5cea955042b8" />
+</em> 
+   <br> 
+      
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2507.14746">PDF</a>         
+          
+       <a class="btn btn--warning btn--small" href="https://github.com/UQUH/GPSampling">Code</a>        
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+ 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://link.springer.com/article/10.1007/s00158-025-04245-y?utm_source=researchgate.net&utm_medium=article"><img class="img_responsive" src="/images/pub/gp_sampling_pathwise.png"></a></div>         
@@ -34,7 +56,8 @@ toc_sticky: true
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://www.sciencedirect.com/science/article/abs/pii/S001793102600565X"><img class="img_responsive" src="/images/pub/thermal-emitters-2026.jpg"></a></div>         
    <div class="text">         
-     <div class="title"><a id="gpts" href="https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674">Automated Design of Nonreciprocal Thermal Emitters via Bayesian Optimization</a></div>         
+     <div class="title"><a id="gpts" href="https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674">Achieving high-performance polarization-independent nonreciprocal thermal radiation with pattern-free heterostructures <img width="468" height="35" alt="image" src="https://github.com/user-attachments/assets/b24ea8c5-084c-4141-b60f-a5e0254f0a06" />
+</a></div>         
      <div class="authors">Bach Do, Bardia Nabavi, Sina Jafari Ghalekohneh, <strong>Taiwo A. Adebiyi</strong>, Bo Zhao, Ruda Zhang         
      </div>         
      <div>         
