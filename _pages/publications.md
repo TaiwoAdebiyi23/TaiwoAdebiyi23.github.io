@@ -21,7 +21,7 @@ toc_sticky: true
        <em>Accepted to the Main Track of the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</em> 
  <br> 
 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2409.09192">PDF</a>             
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2604.19530">PDF</a>             
          
      </div>         
    </div>         
@@ -53,8 +53,7 @@ toc_sticky: true
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://www.sciencedirect.com/science/article/abs/pii/S001793102600565X"><img class="img_responsive" src="/images/pub/thermal-emitters-2026.jpg"></a></div>         
    <div class="text">         
-     <div class="title"><a id="gpts" href="https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674">Achieving high-performance polarization-independent nonreciprocal thermal radiation with pattern-free heterostructures <img width="468" height="35" alt="image" src="https://github.com/user-attachments/assets/b24ea8c5-084c-4141-b60f-a5e0254f0a06" />
-</a></div>         
+     <div class="title"><a id="nremitters" href="https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674">Achieving high-performance polarization-independent nonreciprocal thermal radiation with pattern-free heterostructures</a></div>         
      <div class="authors">Bach Do, Bardia Nabavi, Sina Jafari Ghalekohneh, <strong>Taiwo A. Adebiyi</strong>, Bo Zhao, Ruda Zhang         
      </div>         
      <div>         
@@ -67,6 +66,7 @@ toc_sticky: true
    </div>         
  </div> 
  <br>
+
 
 ## 2025
 
