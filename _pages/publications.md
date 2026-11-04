@@ -30,6 +30,24 @@ toc_sticky: true
  </div> 
  <br>
 
+  <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://www.sciencedirect.com/science/article/abs/pii/S001793102600565X"><img class="img_responsive" src="/images/pub/thermal-emitters-2026.jpg"></a></div>         
+   <div class="text">         
+     <div class="title"><a id="gpts" href="https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674">Automated Design of Nonreciprocal Thermal Emitters via Bayesian Optimization</a></div>         
+     <div class="authors">Bach Do, Bardia Nabavi, Sina Jafari Ghalekohneh, <strong>Taiwo A. Adebiyi</strong>, Bo Zhao, Ruda Zhang         
+     </div>         
+     <div>         
+       <em>Elsevier International Journal of Heat and Mass Transfer, 2026</em> 
+ <br> 
+
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2512.24398">PDF</a>             
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
 ## 2025
 
  <div class="publication">          
