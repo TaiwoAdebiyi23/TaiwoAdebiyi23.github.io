@@ -15,7 +15,7 @@ toc_sticky: true
    <div class="img"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC"><img class="img_responsive" src="/images/pub/stochastic_attention.jpg"></a></div>         
    <div class="text">         
      <div class="title"><a id="sa" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC">Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention</a></div>         
-     <div class="authors">Akash Yadav', <strong>Taiwo A. Adebiyi'</strong>, Ruda Zhang. (<strong>'Co-first Authors, Equal Contribution)         
+     <div class="authors">Akash Yadav<sup>*</sup>, <strong>Taiwo A. Adebiyi<sup>*</sup></strong>, Ruda Zhang. (<strong><sup>*</sup>Co-first Authors, Equal Contribution</strong>)         
      </div>         
      <div>         
        <em>Accepted to the Main Track of the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</em> 
