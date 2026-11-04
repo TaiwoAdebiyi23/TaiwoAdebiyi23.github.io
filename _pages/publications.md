@@ -10,27 +10,24 @@ toc_sticky: true
 
 ## 2026
 
-  <div class="publication">          
+ <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="img"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC"><img class="img_responsive" src="/images/pub/stochastic_attention.jpg"></a></div>         
    <div class="text">         
-     <div class="title"><a id="stochasticattention" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC">). Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/d8ad7cc0-b231-47f2-b153-88e62f167d86" />
-</a></div>         
-     <div class="authors"> Akash Yadav', <strong>Taiwo A. Adebiyi'</strong>, Ruda Zhang. (<strong>'Co-first Authors, Equal Contribution)        
+     <div class="title"><a id="sa" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJdhj-IAAAAJ&citation_for_view=qJdhj-IAAAAJ:W7OEmFMy1HYC">Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention</a></div>         
+     <div class="authors">Akash Yadav', <strong>Taiwo A. Adebiyi'</strong>, Ruda Zhang. (<strong>'Co-first Authors, Equal Contribution)         
      </div>         
-     <div>
-       <em>Accepted to the Main Track of the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)<img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/810933ff-34f0-4050-8659-5cea955042b8" />
-</em> 
-   <br> 
-      
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2507.14746">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/UQUH/GPSampling">Code</a>        
+     <div>         
+       <em>Accepted to the Main Track of the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</em> 
+ <br> 
+
+       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2409.09192">PDF</a>             
          
      </div>         
    </div>         
  </div> 
  <br>
+
  
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
